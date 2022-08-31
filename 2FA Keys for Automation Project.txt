@@ -1,0 +1,10 @@
+###########################2FA-KEYS#############################
+ ###### USER EMAIL ######              ###### KEY #########
+
+faizan.ahmad@powersoft19.com           KRDFUWLBHQZGKYJLNRESG7KDF4WXCTLL
+
+test_customer1@email.com               IR5HIRZQEZSFK6J7PU7D6VLYLU2USJCD
+
+admin@martwires.com                    MR6DK32TIVLUAWSIPZ6DUWBJIA3SQRLV
+
+michael.stuber@smartwires.com          ER6WYNBPKZZU65LWPRUTG2TOM5AWSJD4
